@@ -2,8 +2,8 @@ This repository contains the final requirements in fulfillment of the course CSA
 Included are two major activities that demonstrate the application of foundational AI and machine learning concepts using Python and TensorFlow Keras.
 
 Group Members:
-Buenafe, Cyrush Mcdale L.
-Viñas, Rolando C. Jr.
-Aquino, Senaila A.
-Bayani, Jazmine S.
-Agloro, Mika Fernanda C. 
+1.Buenafe, Cyrush Mcdale L.
+2.Viñas, Rolando C. Jr.
+3.Aquino, Senaila A.
+4.Bayani, Jazmine S.
+5.Agloro, Mika Fernanda C. 
